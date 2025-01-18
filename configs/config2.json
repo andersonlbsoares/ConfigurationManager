@@ -1,0 +1,9 @@
+{
+    "api_url": "https://server2.com",
+    "log_level": "info",
+    "max_retries": 10,
+    "resources": {
+        "maxSize": 102400,
+        "formatsAccepted": ["txt", "pdf"]
+    }
+}

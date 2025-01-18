@@ -1,0 +1,9 @@
+{
+    "api_url": "https://server1.com",
+    "log_level": "debug",
+    "max_retries": 5,
+    "resources": {
+        "maxSize": 102400,
+        "formatsAccepted": ["txt"]
+    }
+}
